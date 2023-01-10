@@ -1,4 +1,3 @@
-
 #!/usr/bin/python3
 """
 Module for class_to_json method.
